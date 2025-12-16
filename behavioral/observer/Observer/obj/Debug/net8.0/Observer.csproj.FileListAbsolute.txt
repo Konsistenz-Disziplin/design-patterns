@@ -1,0 +1,11 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/observer/Observer/obj/Debug/net8.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/observer/Observer/obj/Debug/net8.0/Observer.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/observer/Observer/obj/Debug/net8.0/Observer.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/observer/Observer/obj/Debug/net8.0/Observer.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/observer/Observer/bin/Debug/net8.0/Observer.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/observer/Observer/bin/Debug/net8.0/Observer.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/observer/Observer/bin/Debug/net8.0/Observer.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/observer/Observer/obj/Debug/net8.0/Observer.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/observer/Observer/obj/Debug/net8.0/refint/Observer.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/observer/Observer/obj/Debug/net8.0/Observer.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/observer/Observer/obj/Debug/net8.0/ref/Observer.dll

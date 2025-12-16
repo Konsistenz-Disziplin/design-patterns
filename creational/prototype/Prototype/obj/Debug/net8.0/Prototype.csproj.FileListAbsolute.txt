@@ -1,0 +1,11 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/prototype/Prototype/obj/Debug/net8.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/prototype/Prototype/obj/Debug/net8.0/Prototype.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/prototype/Prototype/obj/Debug/net8.0/Prototype.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/prototype/Prototype/obj/Debug/net8.0/Prototype.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/prototype/Prototype/bin/Debug/net8.0/Prototype.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/prototype/Prototype/bin/Debug/net8.0/Prototype.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/prototype/Prototype/bin/Debug/net8.0/Prototype.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/prototype/Prototype/obj/Debug/net8.0/Prototype.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/prototype/Prototype/obj/Debug/net8.0/refint/Prototype.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/prototype/Prototype/obj/Debug/net8.0/Prototype.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/prototype/Prototype/obj/Debug/net8.0/ref/Prototype.dll

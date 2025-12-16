@@ -1,0 +1,11 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/memento/Memento/obj/Debug/net8.0/Memento.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/memento/Memento/obj/Debug/net8.0/Memento.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/memento/Memento/obj/Debug/net8.0/Memento.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/memento/Memento/obj/Debug/net8.0/Memento.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/memento/Memento/bin/Debug/net8.0/Memento.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/memento/Memento/bin/Debug/net8.0/Memento.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/memento/Memento/bin/Debug/net8.0/Memento.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/memento/Memento/obj/Debug/net8.0/Memento.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/memento/Memento/obj/Debug/net8.0/refint/Memento.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/memento/Memento/obj/Debug/net8.0/Memento.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/memento/Memento/obj/Debug/net8.0/ref/Memento.dll

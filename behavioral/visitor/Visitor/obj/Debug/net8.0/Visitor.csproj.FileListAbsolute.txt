@@ -1,0 +1,11 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/visitor/Visitor/obj/Debug/net8.0/Visitor.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/visitor/Visitor/obj/Debug/net8.0/Visitor.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/visitor/Visitor/obj/Debug/net8.0/Visitor.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/visitor/Visitor/obj/Debug/net8.0/Visitor.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/visitor/Visitor/bin/Debug/net8.0/Visitor.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/visitor/Visitor/bin/Debug/net8.0/Visitor.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/visitor/Visitor/bin/Debug/net8.0/Visitor.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/visitor/Visitor/obj/Debug/net8.0/Visitor.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/visitor/Visitor/obj/Debug/net8.0/refint/Visitor.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/visitor/Visitor/obj/Debug/net8.0/Visitor.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/visitor/Visitor/obj/Debug/net8.0/ref/Visitor.dll

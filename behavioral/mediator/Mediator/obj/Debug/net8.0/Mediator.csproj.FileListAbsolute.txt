@@ -1,0 +1,11 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/mediator/Mediator/obj/Debug/net8.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/mediator/Mediator/obj/Debug/net8.0/Mediator.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/mediator/Mediator/obj/Debug/net8.0/Mediator.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/mediator/Mediator/obj/Debug/net8.0/Mediator.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/mediator/Mediator/bin/Debug/net8.0/Mediator.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/mediator/Mediator/bin/Debug/net8.0/Mediator.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/mediator/Mediator/bin/Debug/net8.0/Mediator.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/mediator/Mediator/obj/Debug/net8.0/Mediator.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/mediator/Mediator/obj/Debug/net8.0/refint/Mediator.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/mediator/Mediator/obj/Debug/net8.0/Mediator.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/mediator/Mediator/obj/Debug/net8.0/ref/Mediator.dll

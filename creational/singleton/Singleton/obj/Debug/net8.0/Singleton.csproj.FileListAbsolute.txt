@@ -1,0 +1,11 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/singleton/Singleton/bin/Debug/net8.0/Singleton.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/singleton/Singleton/bin/Debug/net8.0/Singleton.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/singleton/Singleton/bin/Debug/net8.0/Singleton.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/singleton/Singleton/obj/Debug/net8.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/singleton/Singleton/obj/Debug/net8.0/Singleton.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/singleton/Singleton/obj/Debug/net8.0/Singleton.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/singleton/Singleton/obj/Debug/net8.0/Singleton.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/singleton/Singleton/obj/Debug/net8.0/Singleton.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/singleton/Singleton/obj/Debug/net8.0/refint/Singleton.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/singleton/Singleton/obj/Debug/net8.0/Singleton.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/singleton/Singleton/obj/Debug/net8.0/ref/Singleton.dll

@@ -1,0 +1,11 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/state/State/obj/Debug/net8.0/State.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/state/State/obj/Debug/net8.0/State.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/state/State/obj/Debug/net8.0/State.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/state/State/obj/Debug/net8.0/State.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/state/State/bin/Debug/net8.0/State.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/state/State/bin/Debug/net8.0/State.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/state/State/bin/Debug/net8.0/State.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/state/State/obj/Debug/net8.0/State.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/state/State/obj/Debug/net8.0/refint/State.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/state/State/obj/Debug/net8.0/State.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/state/State/obj/Debug/net8.0/ref/State.dll

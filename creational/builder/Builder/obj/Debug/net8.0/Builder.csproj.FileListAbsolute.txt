@@ -1,0 +1,11 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/builder/Builder/obj/Debug/net8.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/builder/Builder/obj/Debug/net8.0/Builder.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/builder/Builder/obj/Debug/net8.0/Builder.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/builder/Builder/obj/Debug/net8.0/Builder.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/builder/Builder/bin/Debug/net8.0/Builder.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/builder/Builder/bin/Debug/net8.0/Builder.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/builder/Builder/bin/Debug/net8.0/Builder.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/builder/Builder/obj/Debug/net8.0/Builder.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/builder/Builder/obj/Debug/net8.0/refint/Builder.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/builder/Builder/obj/Debug/net8.0/Builder.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/builder/Builder/obj/Debug/net8.0/ref/Builder.dll

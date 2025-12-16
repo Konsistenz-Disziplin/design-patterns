@@ -1,0 +1,11 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/command/Command/bin/Debug/net8.0/Command.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/command/Command/bin/Debug/net8.0/Command.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/command/Command/bin/Debug/net8.0/Command.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/command/Command/obj/Debug/net8.0/Command.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/command/Command/obj/Debug/net8.0/Command.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/command/Command/obj/Debug/net8.0/Command.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/command/Command/obj/Debug/net8.0/Command.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/command/Command/obj/Debug/net8.0/Command.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/command/Command/obj/Debug/net8.0/refint/Command.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/command/Command/obj/Debug/net8.0/Command.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/command/Command/obj/Debug/net8.0/ref/Command.dll

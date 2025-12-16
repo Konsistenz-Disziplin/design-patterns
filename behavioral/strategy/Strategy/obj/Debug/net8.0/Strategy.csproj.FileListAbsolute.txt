@@ -1,0 +1,11 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/strategy/Strategy/bin/Debug/net8.0/Strategy.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/strategy/Strategy/bin/Debug/net8.0/Strategy.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/strategy/Strategy/bin/Debug/net8.0/Strategy.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/strategy/Strategy/obj/Debug/net8.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/strategy/Strategy/obj/Debug/net8.0/Strategy.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/strategy/Strategy/obj/Debug/net8.0/Strategy.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/strategy/Strategy/obj/Debug/net8.0/Strategy.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/strategy/Strategy/obj/Debug/net8.0/Strategy.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/strategy/Strategy/obj/Debug/net8.0/refint/Strategy.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/strategy/Strategy/obj/Debug/net8.0/Strategy.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/strategy/Strategy/obj/Debug/net8.0/ref/Strategy.dll

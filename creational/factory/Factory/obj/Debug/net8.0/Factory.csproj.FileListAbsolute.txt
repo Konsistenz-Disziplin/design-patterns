@@ -1,0 +1,11 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/factory/Factory/obj/Debug/net8.0/Factory.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/factory/Factory/obj/Debug/net8.0/Factory.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/factory/Factory/obj/Debug/net8.0/Factory.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/factory/Factory/obj/Debug/net8.0/Factory.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/factory/Factory/bin/Debug/net8.0/Factory.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/factory/Factory/bin/Debug/net8.0/Factory.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/factory/Factory/bin/Debug/net8.0/Factory.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/factory/Factory/obj/Debug/net8.0/Factory.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/factory/Factory/obj/Debug/net8.0/refint/Factory.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/factory/Factory/obj/Debug/net8.0/Factory.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/creational/factory/Factory/obj/Debug/net8.0/ref/Factory.dll

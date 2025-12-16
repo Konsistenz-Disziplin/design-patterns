@@ -1,0 +1,11 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/chain-of-responsibility/ChainofResponsibility/obj/Debug/net8.0/ChainofResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/chain-of-responsibility/ChainofResponsibility/obj/Debug/net8.0/ChainofResponsibility.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/chain-of-responsibility/ChainofResponsibility/obj/Debug/net8.0/ChainofResponsibility.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/chain-of-responsibility/ChainofResponsibility/obj/Debug/net8.0/ChainofResponsibility.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/chain-of-responsibility/ChainofResponsibility/bin/Debug/net8.0/ChainofResponsibility.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/chain-of-responsibility/ChainofResponsibility/bin/Debug/net8.0/ChainofResponsibility.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/chain-of-responsibility/ChainofResponsibility/bin/Debug/net8.0/ChainofResponsibility.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/chain-of-responsibility/ChainofResponsibility/obj/Debug/net8.0/ChainofResponsibility.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/chain-of-responsibility/ChainofResponsibility/obj/Debug/net8.0/refint/ChainofResponsibility.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/chain-of-responsibility/ChainofResponsibility/obj/Debug/net8.0/ChainofResponsibility.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/behavioral/chain-of-responsibility/ChainofResponsibility/obj/Debug/net8.0/ref/ChainofResponsibility.dll
