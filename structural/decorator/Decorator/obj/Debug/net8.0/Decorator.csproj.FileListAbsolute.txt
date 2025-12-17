@@ -1,0 +1,12 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/decorator/Decorator/obj/Debug/net8.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/decorator/Decorator/obj/Debug/net8.0/Decorator.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/decorator/Decorator/obj/Debug/net8.0/Decorator.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/decorator/Decorator/obj/Debug/net8.0/Decorator.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/decorator/Decorator/obj/Debug/net8.0/Decorator.sourcelink.json
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/decorator/Decorator/bin/Debug/net8.0/Decorator.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/decorator/Decorator/bin/Debug/net8.0/Decorator.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/decorator/Decorator/bin/Debug/net8.0/Decorator.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/decorator/Decorator/obj/Debug/net8.0/Decorator.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/decorator/Decorator/obj/Debug/net8.0/refint/Decorator.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/decorator/Decorator/obj/Debug/net8.0/Decorator.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/decorator/Decorator/obj/Debug/net8.0/ref/Decorator.dll

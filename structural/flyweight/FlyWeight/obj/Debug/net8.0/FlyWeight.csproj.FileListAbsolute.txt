@@ -1,0 +1,12 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/flyweight/FlyWeight/obj/Debug/net8.0/FlyWeight.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/flyweight/FlyWeight/obj/Debug/net8.0/FlyWeight.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/flyweight/FlyWeight/obj/Debug/net8.0/FlyWeight.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/flyweight/FlyWeight/obj/Debug/net8.0/FlyWeight.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/flyweight/FlyWeight/obj/Debug/net8.0/FlyWeight.sourcelink.json
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/flyweight/FlyWeight/bin/Debug/net8.0/FlyWeight.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/flyweight/FlyWeight/bin/Debug/net8.0/FlyWeight.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/flyweight/FlyWeight/bin/Debug/net8.0/FlyWeight.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/flyweight/FlyWeight/obj/Debug/net8.0/FlyWeight.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/flyweight/FlyWeight/obj/Debug/net8.0/refint/FlyWeight.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/flyweight/FlyWeight/obj/Debug/net8.0/FlyWeight.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/flyweight/FlyWeight/obj/Debug/net8.0/ref/FlyWeight.dll

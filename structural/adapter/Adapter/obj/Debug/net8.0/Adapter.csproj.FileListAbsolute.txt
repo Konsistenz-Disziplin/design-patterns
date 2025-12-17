@@ -1,0 +1,12 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/adapter/Adapter/obj/Debug/net8.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/adapter/Adapter/obj/Debug/net8.0/Adapter.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/adapter/Adapter/obj/Debug/net8.0/Adapter.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/adapter/Adapter/obj/Debug/net8.0/Adapter.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/adapter/Adapter/obj/Debug/net8.0/Adapter.sourcelink.json
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/adapter/Adapter/bin/Debug/net8.0/Adapter.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/adapter/Adapter/bin/Debug/net8.0/Adapter.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/adapter/Adapter/bin/Debug/net8.0/Adapter.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/adapter/Adapter/obj/Debug/net8.0/Adapter.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/adapter/Adapter/obj/Debug/net8.0/refint/Adapter.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/adapter/Adapter/obj/Debug/net8.0/Adapter.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/adapter/Adapter/obj/Debug/net8.0/ref/Adapter.dll

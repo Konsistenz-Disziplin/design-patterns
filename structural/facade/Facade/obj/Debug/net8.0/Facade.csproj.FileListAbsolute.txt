@@ -1,0 +1,12 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/facade/Facade/obj/Debug/net8.0/Facade.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/facade/Facade/obj/Debug/net8.0/Facade.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/facade/Facade/obj/Debug/net8.0/Facade.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/facade/Facade/obj/Debug/net8.0/Facade.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/facade/Facade/obj/Debug/net8.0/Facade.sourcelink.json
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/facade/Facade/bin/Debug/net8.0/Facade.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/facade/Facade/bin/Debug/net8.0/Facade.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/facade/Facade/bin/Debug/net8.0/Facade.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/facade/Facade/obj/Debug/net8.0/Facade.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/facade/Facade/obj/Debug/net8.0/refint/Facade.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/facade/Facade/obj/Debug/net8.0/Facade.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/facade/Facade/obj/Debug/net8.0/ref/Facade.dll

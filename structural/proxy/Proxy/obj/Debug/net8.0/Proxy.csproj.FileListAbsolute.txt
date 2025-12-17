@@ -1,0 +1,12 @@
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/proxy/Proxy/bin/Debug/net8.0/Proxy.deps.json
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/proxy/Proxy/bin/Debug/net8.0/Proxy.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/proxy/Proxy/bin/Debug/net8.0/Proxy.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/proxy/Proxy/obj/Debug/net8.0/Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/proxy/Proxy/obj/Debug/net8.0/Proxy.AssemblyInfoInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/proxy/Proxy/obj/Debug/net8.0/Proxy.AssemblyInfo.cs
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/proxy/Proxy/obj/Debug/net8.0/Proxy.csproj.CoreCompileInputs.cache
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/proxy/Proxy/obj/Debug/net8.0/Proxy.sourcelink.json
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/proxy/Proxy/obj/Debug/net8.0/Proxy.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/proxy/Proxy/obj/Debug/net8.0/refint/Proxy.dll
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/proxy/Proxy/obj/Debug/net8.0/Proxy.pdb
+/home/sandra/Sandra/Study/Projects/design-patterns/structural/proxy/Proxy/obj/Debug/net8.0/ref/Proxy.dll
